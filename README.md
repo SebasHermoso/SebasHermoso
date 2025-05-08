@@ -40,8 +40,8 @@ Profesional especializado en **tecnologías de la información** con experiencia
 ---
 
 ## 📈 **ESTADÍSTICAS DE GITHUB**  
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true)](https://github.com/tuusuario)  
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true)](https://github.com/tuusuario)  
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=SebasHermoso&show_icons=true&theme=radical&hide_border=true)](https://github.com/SebasHermoso)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasHermoso&layout=compact&theme=radical&hide_border=true)](https://github.com/SebasHermoso)  
 
 ---
 
