@@ -2,7 +2,7 @@
 
 ### 🚀 **Ingeniero Informático | Full Stack Developer (FrontEnd/BackEnd) + DevOps**  
 📍 **Medellín, Colombia** | 📞 **324 243 1783** | ✉️ **segurosloras@gmail.com**  
-🌐 **[Portafolio Web](https://my-website-sl.pages.dev)** | 🔗 **[LinkedIn](#)** *(https://www.linkedin.com/in/sebastian-lora-0a5505219/)*  
+🌐 **[Portafolio Web](https://my-website-sl.pages.dev)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/sebastian-lora-0a5505219/)**  
 
 ---
 
