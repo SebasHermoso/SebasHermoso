@@ -18,11 +18,6 @@ Profesional especializado en **tecnologías de la información** con experiencia
 
 ## 🛠 **HABILIDADES TÉCNICAS**  
 
-### 📊 **BI & Bases de Datos**  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-
 ### 💻 **FrontEnd**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -36,6 +31,11 @@ Profesional especializado en **tecnologías de la información** con experiencia
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+
+### 📊 **BI & Bases de Datos**  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
 ---
 
@@ -62,7 +62,7 @@ Profesional especializado en **tecnologías de la información** con experiencia
 📧 **Email**: segurosloras@gmail.com  
 📞 **Teléfono**: +57 324 243 1783  
 🔗 **Portafolio**: [my-website-sl.pages.dev](https://my-website-sl.pages.dev/)  
-💼 **LinkedIn**: [Sebastián Lora](#) *(https://www.linkedin.com/in/sebastian-lora-0a5505219/)*  
+💼 **LinkedIn**: [Sebastián Lora](https://www.linkedin.com/in/sebastian-lora-0a5505219/)  
 
 ---
 
