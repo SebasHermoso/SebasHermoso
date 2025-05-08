@@ -54,7 +54,7 @@ Profesional especializado en **tecnologías de la información** con experiencia
 ## 📚 **APRENDIENDO ACTUALMENTE**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
-*(¡Siemopen a colaborar en proyectos!)*  
+*(¡Siempre abierto a colaborar en proyectos!)*  
 
 ---
 
