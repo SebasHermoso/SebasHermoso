@@ -61,7 +61,7 @@ Profesional especializado en **tecnologías de la información** con experiencia
 ## 📫 **¿CÓMO CONTACTARME?**  
 📧 **Email**: segurosloras@gmail.com  
 📞 **Teléfono**: +57 324 243 1783  
-🔗 **Portafolio**: [mywebsite-sl.pages.dev](https://my-website-sl.pages.dev/)  
+🔗 **Portafolio**: [my-website-sl.pages.dev](https://my-website-sl.pages.dev/)  
 💼 **LinkedIn**: [Sebastián Lora](#) *(https://www.linkedin.com/in/sebastian-lora-0a5505219/)*  
 
 ---
