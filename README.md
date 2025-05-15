@@ -47,8 +47,8 @@ Profesional especializado en **tecnologías de la información** con experiencia
 ---
 
 ## 🔥 **PROYECTOS DESTACADOS**  
-- 🏆 **Proyecto 1**: Descripción breve + [Enlace](#)  
-- 🏆 **Proyecto 2**: Descripción breve + [Enlace](#)  
+- 🏆 **Proyecto 1**: Este proyecto, desarrollado en Python, simula el funcionamiento de un ransomware mediante el uso de la biblioteca cryptography. Implementa un sistema de cifrado y descifrado de archivos utilizando el algoritmo Fernet, asegurando la protección de datos mediante una clave secreta. + [Enlace](https://github.com/SebasHermoso/Simulacion-Criptografia/tree/main)  
+- 🏆 **Proyecto 2**: Este proyecto fue desarrollado utilizando Node.js y Git. Se trata de un bot para WhatsApp basado en la documentación disponible en bot-whatsapp.netlify.app. + [Enlace](https://github.com/SebasHermoso/base-baileys-memory/tree/main)  
 
 ---
 
