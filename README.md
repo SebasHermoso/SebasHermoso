@@ -115,8 +115,10 @@ Dashboards en Tableau Desktop/Server y validación de datos en SQL Server y Orac
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=SebasHermoso&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=6ef2c0&icon_color=8b8cff&text_color=e8edf5&locale=es)](https://github.com/SebasHermoso)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasHermoso&layout=compact&hide_border=true&bg_color=0b0f17&title_color=6ef2c0&text_color=e8edf5&locale=es)](https://github.com/SebasHermoso)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SebasHermoso&theme=github_dark" alt="Estadísticas" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SebasHermoso&theme=github_dark" alt="Lenguajes más usados" height="170" />
+
+<img src="https://streak-stats.demolab.com/?user=SebasHermoso&hide_border=true&background=0B0F17&ring=6EF2C0&fire=8B8CFF&currStreakLabel=6EF2C0&sideLabels=E8EDF5&currStreakNum=E8EDF5&sideNums=E8EDF5&dates=8D99AD&stroke=243045&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
